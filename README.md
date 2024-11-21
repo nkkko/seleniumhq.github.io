@@ -31,6 +31,8 @@ Please check all the information available at <https://selenium.dev/getinvolved/
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SeleniumHQ/seleniumhq.github.io)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/SeleniumHQ/seleniumhq.github.io)
+
 ## For Selenium Site and Documentation maintainers
 
 ### How does the site and docs get build?
